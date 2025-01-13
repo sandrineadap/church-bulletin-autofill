@@ -1,5 +1,6 @@
-![Thumbnail: Converting Google Sheets data to Google Docs via Google Apps Script](./thumbnail-readme.png)
 # Church Bulletin Autofill - Google Sheets Extension
+
+![Thumbnail: Converting Google Sheets data to Google Docs via Google Apps Script](./thumbnail-readme.png)
 
 The project was created using Google Apps Script (GAS) for the `ChurchBulletinSchedule` Google Sheet. It extracts data from a Google Sheet and uses it to automatically create the church bulletin for that week. 
 
